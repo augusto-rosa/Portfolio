@@ -1,6 +1,6 @@
-# Portfolio
-# 👋 Hello, I am Augusto Rosa
-### Data Engineer | Python | SQL | ETL | AWS Cloud
+# 👋 Hello, I am Augusto Rosa  
+Welcome to my portfolio — a space where I learn, build, and share my passion for data and technology.  
+### Data Engineer & Data Analyst | Python | SQL | ETL | AWS Certified | Cloud Solutions
 
 ## 🚀 Projects 
 
