@@ -1,6 +1,6 @@
 # 👋 Hello, I am Augusto Rosa  
 Welcome to my portfolio — a space where I learn, build, and share my passion for data and technology.  
-### Data Engineer & Analyst (BI/ETL) | Python | SQL | Power BI | Cloud Platforms (AWS & Azure)
+### Data Engineer & Analyst (BI/ETL) | Python | SQL | Power BI | Cloud Data Solutions | AWS & Azure
 
 ## 🚀 Projects 
 
