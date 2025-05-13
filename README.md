@@ -1,4 +1,4 @@
-# 👋 Hello, I am Augusto Rosa  
+# 🛠️ Projects in progress — feedback is always welcome! 
 Welcome to my portfolio — a space where I learn, build, and share my passion for data and technology.  
 
 ## 🚀 Projects 
