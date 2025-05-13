@@ -1,5 +1,8 @@
 # ✨ A collection of things I’ve built, learned, and enjoyed.
-Welcome to my portfolio — 🛠️ Projects in progress — feedback is always welcome!  
+
+<p align="center">Welcome to my portfolio</p>
+
+🛠️ Projects in progress — feedback is always welcome!  
 
 ## 🚀 Projects 
 
