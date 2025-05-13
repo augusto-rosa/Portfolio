@@ -1,6 +1,6 @@
-# ✨ A collection of things I’ve built, learned, and enjoyed.
+# A collection of things I’ve built, learned, and enjoyed.
 
-<p align="center">Welcome to my portfolio</p>
+<p align="center">✨ Welcome to my portfolio ✨</p>
 
 🛠️ Projects in progress — feedback is always welcome!  
 
