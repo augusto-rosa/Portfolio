@@ -1,7 +1,5 @@
 # ✨ A collection of things I’ve built, learned, and enjoyed.
-Welcome to my portfolio — a space where I learn, build, and share my passion for data and technology.  
-
-🛠️ Projects in progress — feedback is always welcome! 
+Welcome to my portfolio — 🛠️ Projects in progress — feedback is always welcome!  
 
 ## 🚀 Projects 
 
